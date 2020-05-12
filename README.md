@@ -18,4 +18,5 @@ My hackintosh project
  - Встроенный в материнскую плату WiFi НЕ РАБОТАЕТ
 
 
-Не внесен в USBPorts.kext порт usb c, из-за отсутствия устройств с таким разъемом.
+Не внесен в USBPorts.kext порт usb c, из-за отсутствия устройств с таким разъемом. 
+![Не подписан на скриншоте](https://github.com/smaga38/msi-mpg-z390-gaming-edge-ac-hackintosh/raw/master/images/usb_map.png)

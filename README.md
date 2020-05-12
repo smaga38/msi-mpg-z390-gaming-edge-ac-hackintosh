@@ -1,5 +1,5 @@
 # msi-mpg-z390-gaming-edge-ac-hackintosh
-My hackintosh project
+My opencore hackintosh project
 
 Конфигурация выглядит следующим образом
  - Процессор i9 9900k
@@ -20,3 +20,18 @@ My hackintosh project
 
 Не внесен в USBPorts.kext порт usb c, из-за отсутствия устройств с таким разъемом. 
 ![Не подписан на скриншоте](https://github.com/smaga38/msi-mpg-z390-gaming-edge-ac-hackintosh/raw/master/images/usb_map.png)
+
+Огромное спасибо команде opencore
+https://dortania.github.io/
+также описание составления карты usb с помощью Hackintool
+https://www.tonymacx86.com/threads/the-new-beginners-guide-to-usb-port-configuration.286553/#post-2029768
+
+Использованный софт:
+ - [gibMacOS](https://github.com/corpnewt/gibMacOS)
+ - [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg/releases/)
+ - [SSDTTime](https://github.com/corpnewt/SSDTTime)
+ - [MaciASL](https://github.com/acidanthera/MaciASL/releases)
+ - [ProperTree](https://github.com/corpnewt/ProperTree)
+ - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+ - [USBMap](https://github.com/corpnewt/USBMap)
+ - [Hackintool](https://github.com/headkaze/Hackintool)

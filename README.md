@@ -23,8 +23,9 @@ My opencore hackintosh project
 
 Огромное спасибо команде opencore
 https://dortania.github.io/
-также описание составления карты usb с помощью Hackintool
-https://www.tonymacx86.com/threads/the-new-beginners-guide-to-usb-port-configuration.286553/#post-2029768
+
+А также спасибо за описание составления карты usb с помощью Hackintool великолепному UtterDisbelief
+[UtterDisbelief](https://www.tonymacx86.com/threads/the-new-beginners-guide-to-usb-port-configuration.286553/#post-2029768)
 
 Использованный софт:
  - [gibMacOS](https://github.com/corpnewt/gibMacOS)
